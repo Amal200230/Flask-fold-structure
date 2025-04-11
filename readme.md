@@ -1,3 +1,10 @@
+******************************THIS IS A FLASK FOLDER STRUCTURE ****************************
+
+
+
+
+
+
 models = mainly databases items related to  SQLALCHEMY
 
 routes = the http end points (get,post,put ,delete)
